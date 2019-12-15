@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="title_color">#f2f2f2</color>
+    <color name="type_color">#bababa</color>
+    <color name="placeholder_bg">#E8E8E8</color>
+    <color name="movie_title_color">#52575C</color>
+    <color name="publisher_color">#464646</color>
+
+    <color name="error_title">#4A4A4A</color>
+    <color name="error_subtitle">#929292</color>
+    <color name="transparent">#00ffffff</color>
+</resources>

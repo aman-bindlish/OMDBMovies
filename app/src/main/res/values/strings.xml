@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OMDB Movies</string>
+    <string name="title_item_detail">Movie Detail</string>
+
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal.</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="try_another">Try searching with some other text.</string>
+</resources>
