@@ -44,4 +44,4 @@ Based on MVVM architecture and repository pattern, where database serves as a si
 * <b>ui</b> package containing classes for activity, fragments and adapter.
 * <b>viewmodel</b> package for viewmodel classes.
 
-##### You can right back to me if you have any suggestion which can improve the architecture.
+##### You can write back to me if you have any suggestion which can improve the architecture.
